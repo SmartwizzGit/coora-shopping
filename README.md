@@ -18,4 +18,7 @@ Os arquivos de desenvolvimento (JS não minificado) foram perdidos. O projeto fo
 De forma a evitar código-fonte desnecessário, foi desenvolvido sem o uso de frameworks tal como jQuery, React ou Angular. Com apróximadamente 2000 linhas de JavaScript puro, o documento HTML com CSS e JS "inline" pesa minificado 19.1 KB.
 
 ## Team
-O desenho da interface foi feito por [Mikael Carrara](https://github.com/mikaelcarrara).
+Programação: Dirceu
+
+
+Desenho da interface: [Mikael Carrara](https://github.com/mikaelcarrara)
