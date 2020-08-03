@@ -1,5 +1,4 @@
 # Coora Shopping
-> Para armazenamento e lembrança
 
 ## História
 O Coora Shopping foi desenvolvido em 2018. Foi uma evolução do projeto [Instant Ofertas](https://github.com/dirceup/instant-ofertas). Com o grande diferencial de apresentar o design responsivo e utilizar a API v2 do [Lomadee](https://www.lomadee.com/).
