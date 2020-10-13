@@ -11,6 +11,13 @@
         "source": "**",
         "destination": "/index.html"
       }
+    ],
+    "redirects": [
+      {
+      "source": "**",
+      "destination": "https://github.com/dirceup/coora-shopping",
+      "type": 302
+      }
     ]
   }
 }
